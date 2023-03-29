@@ -38,21 +38,37 @@ public class bucleForanidado {
                     System.out.println("NO VALIDO, ingrese nuevamente...:");
                  }
             } while (auxiliar < 0 || auxiliar > 20);
-                      
+           
+            /*       
+            if (i==0) {
+                numero1 = auxiliar;
+            } else if(i==1) {
+                numero2 = auxiliar;
+            } else if(i==2) {
+                numero3 = auxiliar;
+            } else if(i==3) {
+                numero4 = auxiliar;
+            }
+            */
+            
             switch (i) {
-                   case 0:
+                case 0:
                     numero1 = auxiliar;
-                   break;
-                    case 1:
-                     numero2 = auxiliar;
                     break;
-                    case 2:
-                     numero3 = auxiliar;
+                case 1:
+                    numero2 = auxiliar;
                     break;
-                    case 3:
-                     numero4 = auxiliar;
+                case 2:
+                    numero3 = auxiliar;
                     break;
-            } 
+                case 3:
+                    numero4 = auxiliar;
+                    break;
+                default:
+                    break;
+            }
+                   
+            
             System.out.println("");
         }
         
