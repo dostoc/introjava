@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Jona
  */
-public class ValidaPalabra {
+public class g3_2_ValidaPalabra {
 
     /**
      * @param args the command line arguments

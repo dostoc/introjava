@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Jona
  */
-public class bucleFOR {
+public class g1_Impresion_bucleForanidado_v2 {
 
     /**
      * @param args the command line arguments

@@ -9,7 +9,7 @@ package introduccionjava;
  *
  * @author jonak
  */
-public class Introduccionjava {
+public class g1_basicos_Introduccionjava {
 
     /**
      * @param args the command line arguments

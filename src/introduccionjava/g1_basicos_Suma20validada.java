@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author jonak
  */
-public class Suma20validada {
+public class g1_basicos_Suma20validada {
 
     /**
      * @param args the command line arguments

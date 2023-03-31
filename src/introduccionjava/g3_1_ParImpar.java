@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Jona
  */
-public class ParImpar {
+public class g3_1_ParImpar {
 
     /**
      * @param args the command line arguments

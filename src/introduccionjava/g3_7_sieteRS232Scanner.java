@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author jonak
  */
-public class sieteRS232Scanner {
+public class g3_7_sieteRS232Scanner {
 
     /**
      * @param args the command line arguments
