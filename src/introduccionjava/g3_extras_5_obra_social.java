@@ -35,15 +35,15 @@ public class g3_extras_5_obra_social {
         
         switch (tipoSocio.toUpperCase()) {
             case "A":
-                descTratamiento = costoTratamiento - costoTratamiento*(50/100);
+                descTratamiento = costoTratamiento - costoTratamiento*0.5;
                 break;
                 
             case "B":
-                descTratamiento = costoTratamiento - costoTratamiento*(35/100);
+                descTratamiento = costoTratamiento - costoTratamiento*0.35;
                 break;
                 
             case "C": // da lo mismo pero como para que se entienda...
-                descTratamiento = costoTratamiento - costoTratamiento*(0/100);
+                descTratamiento = costoTratamiento;
                 break;
         }
         

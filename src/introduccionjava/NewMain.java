@@ -8,7 +8,7 @@ package introduccionjava;
  *
  * @author jonak
  */
-public class hola {
+public class NewMain {
 
     /**
      * @param args the command line arguments
