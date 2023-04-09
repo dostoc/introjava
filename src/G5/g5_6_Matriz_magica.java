@@ -8,7 +8,7 @@ package G5;
  *
  * @author jonak
  */
-public class g5_6_Matriz_asimetrica {
+public class g5_6_Matriz_magica {
 
     /**
      * @param args the command line arguments
@@ -45,7 +45,7 @@ public class g5_6_Matriz_asimetrica {
                 noes = false;
                 break;
             }
-
+    
         }
         if (noes) {
             for (int j = 0; j < 3; j++) {
@@ -102,6 +102,8 @@ public class g5_6_Matriz_asimetrica {
             }
         }
         System.out.println("Magica es" + noes);
+               
+
     }
 
 }

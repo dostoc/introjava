@@ -16,7 +16,6 @@ public class g5_3_contador_digitos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here3
         Scanner leer = new Scanner(System.in);
         
         int cantUno = 0;

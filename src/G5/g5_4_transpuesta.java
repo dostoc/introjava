@@ -54,6 +54,7 @@ public class g5_4_transpuesta {
             }
             System.out.println(aux);
         }
+        
     
 }
 
